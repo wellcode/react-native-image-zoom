@@ -22,8 +22,8 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "@types/react": "*",
-    "@types/react-native": "*",
+    "@types/react": "^16.9.3",
+    "@types/react-native": "^0.60.16",
     "ascoders-tslint-config": "^1.0.2",
     "react": "*",
     "react-native": "*",
